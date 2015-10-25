@@ -21,6 +21,7 @@ y_test
 Only varibales relating to mean() and std() were retained.
 Labels for the variables were improved as outlined below.
 The units are the average  calculated for each variable based on subject and activity combined
+
 ---
 
 Variables 
