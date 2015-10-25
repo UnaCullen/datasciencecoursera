@@ -2,13 +2,13 @@
 title: "Codebook For TidyData.txt"
 
 ---
-Source:The Source Data was provided by :
+#Source:#The Source Data was provided by :
         Human Activity Recognition Using Smartphones Dataset
         Version 1.0
 
-Data Source: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+#Data Source:# https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-Data preparation:
+#Data preparation:#
 
 
 The following files are merged:
@@ -25,7 +25,7 @@ The units are the average  calculated for each variable based on subject and act
 
 ---
 
-Variables 
+#Variables #
 
 ---
 Units:
